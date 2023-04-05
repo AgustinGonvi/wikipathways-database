@@ -128,9 +128,9 @@
     <Graphics CenterX="623.4852642274893" CenterY="419.8759381571216" Width="80.0" Height="20.0" ZOrder="32791" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="366441" />
   </DataNode>
-  <DataNode TextLabel="Slc2a2" GraphId="e7f8b" Type="GeneProduct" GroupRef="c9c11">
+  <DataNode TextLabel="Naglt1" GraphId="e7f8b" Type="GeneProduct" GroupRef="c9c11">
     <Graphics CenterX="623.2291084024249" CenterY="460.0880285948366" Width="80.0" Height="20.0" ZOrder="32792" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="25351" />
+    <Xref Database="Entrez Gene" ID="337920" />
   </DataNode>
   <Interaction GraphId="id12454b2a">
     <Graphics ZOrder="12288" LineThickness="1.0">
